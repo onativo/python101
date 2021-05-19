@@ -1,4 +1,4 @@
-def troca(x, y)
+def troca(x, y):
     aux = x
     x = y
     y = aux
